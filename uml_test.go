@@ -10,7 +10,7 @@ import (
 	"strings"
 	"testing"
 
-	gouml "github.com/OhYee/go-plantuml"
+	gouml "github.com/iessa-pragg-ctct/go-plantuml"
 	"github.com/yuin/goldmark"
 	"github.com/yuin/goldmark/extension"
 	"github.com/yuin/goldmark/parser"

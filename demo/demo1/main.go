@@ -6,7 +6,7 @@ import (
 	"path"
 	"runtime"
 
-	uml "github.com/OhYee/goldmark-plantuml"
+	uml "github.com/iessa-pragg-ctct/goldmark-plantuml"
 	"github.com/yuin/goldmark"
 	"github.com/yuin/goldmark/extension"
 	"github.com/yuin/goldmark/parser"

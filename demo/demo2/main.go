@@ -7,7 +7,7 @@ import (
 	"runtime"
 
 	ext "github.com/OhYee/goldmark-fenced_codeblock_extension"
-	uml "github.com/OhYee/goldmark-plantuml"
+	uml "github.com/iessa-pragg-ctct/goldmark-plantuml"
 
 	"github.com/yuin/goldmark"
 	highlighting "github.com/yuin/goldmark-highlighting"

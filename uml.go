@@ -1,16 +1,16 @@
 // Package uml is a extension for the goldmark(http://github.com/yuin/goldmark).
 //
 // This extension adds svg picture output from uml language using
-// go-plantuml(https://github.com/OhYee/go-plantuml).
+// go-plantuml(OhYee/go-plantuml).
 package uml
 
 import (
 	"bytes"
 	"crypto/sha1"
 
-	gouml "github.com/OhYee/go-plantuml"
 	ext "github.com/OhYee/goldmark-fenced_codeblock_extension"
 	fp "github.com/OhYee/goutils/functional"
+	gouml "github.com/iessa-pragg-ctct/go-plantuml"
 
 	"github.com/yuin/goldmark"
 	"github.com/yuin/goldmark/ast"
